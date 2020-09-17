@@ -1,0 +1,27 @@
+header{
+  background-color:#004e2d;
+  height:80px;
+}
+h1{
+  color:#edd19a;
+  font-size:40px;
+  text-align:center;
+}
+main{
+  background-color:#edd19a;
+  height:320px;
+}
+btnn{
+  display:inline-block;
+  color:white;
+  border-radius:3px;
+  padding:8px 24px;
+  opacity:0.8;
+
+}
+pro{
+  background-color:#3e5a99;
+}
+bro{
+  background-color:#237e61;
+}
