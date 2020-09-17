@@ -24,7 +24,8 @@ h1{
   padding:8px 24px;
   opacity:0.8;
   font-size: 30px;
-  margin-top:50px
+  margin-top:50px;
+  box-shadow: 5px 7px;
 
 
 }
@@ -37,4 +38,16 @@ h1{
 .bro{
   background-color:#237e61;
   padding:8px 92px;
+}
+
+.btn:hover{
+  box-shadow: 10px 14px;
+  opacity:0.8;
+}
+
+.btn:active{
+  box-shadow:none;
+  position:relative;
+  top:10px;
+  left:14px;
 }
