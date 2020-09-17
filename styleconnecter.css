@@ -6,22 +6,35 @@ h1{
   color:#edd19a;
   font-size:40px;
   text-align:center;
+  padding-top:20px;
 }
-main{
+.main{
   background-color:#edd19a;
   height:320px;
 }
-btnn{
+.btnguys{
+  width:290px;
+  margin:0 auto;
+}
+
+.btn{
   display:inline-block;
   color:white;
   border-radius:3px;
   padding:8px 24px;
   opacity:0.8;
+  font-size: 30px;
+  margin-top:50px
+
 
 }
-pro{
+.pro{
   background-color:#3e5a99;
+
+
+
 }
-bro{
+.bro{
   background-color:#237e61;
+  padding:8px 92px;
 }
